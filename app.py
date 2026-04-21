@@ -140,7 +140,7 @@ with tab4:
             
             st.divider()
             st.subheader("💡 Strategic Action for this Client")
-            # Custom recommendations based on your specific cluster meanings
+            # Custom recommendations based on cluster meanings
             if cust['cluster'] == 1:
                 st.write("📈 **Priority:** High-Value Saver. Offer Premium Term Deposits and Investment Portfolio consultations.")
             elif cust['cluster'] == 2:
