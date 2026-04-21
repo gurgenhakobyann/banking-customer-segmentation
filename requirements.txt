@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+scipy
+streamlit
+plotly
+pyarrow
+fastparquet
